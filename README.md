@@ -4,9 +4,9 @@ Walmart Inc. is an American multinational retail corporation that operates a cha
 
 In this project we are going to use some of the store's data for forecasting using R-Programming.
 ### Data Files:
-features.csv\n
-store.csv
-test.csv
+features.csv,
+store.csv,
+test.csv,
 train.csv
 ### Code File:
 WalmartSalesProject.R
